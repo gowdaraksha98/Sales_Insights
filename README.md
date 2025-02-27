@@ -1,2 +1,2 @@
 # Sales_Insights
-Sales Performance &amp; Revenue Analysis Dashboard
+Sales Performance and Revenue Analysis Dashboard (Power BI + MySQL)
