@@ -1,0 +1,40 @@
+This Power BI dashboard provides a comprehensive sales and revenue analysis across different markets, customers, and products. It enables businesses to monitor key 
+sales metrics, revenue trends, and market performance, helping in data-driven decision-making and strategic planning.
+
+Key Features & Insights
+
+KPI Summary (Top Panel)
+•	Total Revenue: 984.81M
+•	Total Sales Quantity: 2M Units
+•	Revenue & Sales by Market (Left Panel)
+
+Visualizes market-wise revenue & sales performance.
+Top Market: Delhi NCR with ₹519.51M in revenue.
+Some markets show 0M sales, indicating low/no transactions.
+
+Revenue Trend (Top-Right Line Chart)
+•	Shows revenue fluctuations over time (2017-2020).
+•	Highlights seasonal trends and business performance.
+
+Top 5 Customers by Revenue (Bottom-Left Panel)
+•	Highest Revenue Contributor: Electricalsara Stores (₹413.33M)
+•	Identifies key customers driving business growth.
+
+Top 5 Products by Revenue (Bottom-Right Pie Chart)
+•	Displays product performance based on revenue contribution.
+•	Highest Earning Product: Prod318 (₹68.97M, 29.08% of total revenue)
+
+Dynamic Filtering (Right Panel)
+•	Users can filter data by Year & Month for trend analysis.
+
+Business Use Case
+This dashboard helps sales managers, finance teams, and decision-makers:
+•	Identify top-performing markets, customers, and products.
+•	Analyze revenue trends to predict future sales patterns.
+•	Optimize sales strategy by focusing on high-revenue areas.
+•	Monitor declining sales regions/products and take corrective action.
+
+Files Included in GitHub
+•	Sales_Insight .pbix file
+•	Dashboard Screenshot
+•	README.md (with project details )
