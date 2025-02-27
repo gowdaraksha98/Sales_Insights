@@ -1,7 +1,12 @@
-This Power BI dashboard provides a comprehensive sales and revenue analysis across different markets, customers, and products. It enables businesses to monitor key 
-sales metrics, revenue trends, and market performance, helping in data-driven decision-making and strategic planning.
+This Power BI dashboard provides an in-depth sales and revenue analysis, utilizing MySQL for data querying and transformation. 
+The project follows a structured AIMS Grid framework to define its purpose and success criteria, ensuring data-driven insights 
+that align with business objectives.
 
-Key Features & Insights
+Key Aspects of the Project:
+•	Data Extraction & Analysis: Used MySQL to query and analyze raw sales data.
+•	ETL Process in Power BI: Cleaned and transformed data in Power Query Editor for dashboard visualization.
+•	This project was built under the learning framework of Codebasics, refining Power BI & SQL skills.
+
 
 KPI Summary (Top Panel)
 •	Total Revenue: 984.81M
